@@ -1,0 +1,23 @@
+This image is a **box plot** (also known as a box-and-whisker plot) that visualizes the distribution of daily consumption across three different surveys. It is a classic tool for showing how data is spread out and identifying outliers.
+
+Here is a breakdown of what the chart is telling us:
+
+### 1. The Core Components
+
+* **X-Axis (Survey ID):** Shows three distinct survey groups, labeled **100000**, **200000**, and **300000**.
+* **Y-Axis (Daily Consumption):** Measured in **PPP $2017** (Purchasing Power Parity in 2017 dollars). This is a standard way to compare economic data across different countries by adjusting for price level differences.
+* **The Boxes:** The blue boxes represent the "middle 50%" of the data.
+* The **line inside the box** is the **median** (the middle value).
+* The **top and bottom of the box** represent the 75th and 25th percentiles, respectively.
+
+
+
+---
+
+### 2. Key Observations
+
+* **Highly Skewed Data:** Notice how "squashed" the boxes are at the bottom (near 0 to 25) compared to the long vertical lines and circles above. This means the vast majority of people in these surveys have relatively low daily consumption.
+* **Outliers (The Circles):** Each individual circle represents an **outlier**—someone whose consumption is significantly higher than the rest of the group.
+* Survey **300000** has the highest recorded outlier, reaching nearly **$240/day**.
+* The "heavy tail" of circles suggests a high level of inequality within these surveyed populations.
+
